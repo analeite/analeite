@@ -2,9 +2,6 @@
 <h4 align="center">A Brazilian System Analyst doing the second college in the Databases area. Aspirant of DevOps culture. Member of the Shalom Catholic Community.</h4>
 
 <br>
-<p align="center"> <a href="https://twitter.com/anabe_sh" target="blank"><img src="https://img.shields.io/twitter/follow/anabe_sh?logo=twitter&style=for-the-badge" alt="anabe_sh" /></a> </p> <p align="center"> 
-
- <a href="https://instagram.com/anabeatriz.sh" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="anabeatriz.sh" /></a> </p><br>
 
 - 🌱 I’m currently learning **about AZ-900, Ansible and DevOps culture.**
 
@@ -14,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anabe_sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anabe_sh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ana-beatriz-araujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ana-beatriz-araujo" height="30" width="40" /></a>
-<a href="https://instagram.com/anabeatriz.sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anabeatriz.sh" height="30" width="40" /></a>
+<a href="https://instagram.com/anabeatriz.sh" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="anabeatriz.sh" /></a>
+<a href="https://linkedin.com/in/ana-beatriz-araujo" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ana-beatriz-araujo" /></a>
+<a href="https://twitter.com/anabe_sh" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="anabe_sh" /></a>
 </p>
 <br>
 
