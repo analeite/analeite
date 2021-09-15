@@ -2,7 +2,7 @@
 <h4 align="center">A Brazilian System Analyst doing the second college in the Databases area. Aspirant of DevOps culture. Member of the Shalom Catholic Community.</h4>
 
 <br>
-<p align="center"> <a href="https://twitter.com/anabe_sh" target="blank"><img src="https://img.shields.io/twitter/follow/anabe_sh?logo=twitter&style=for-the-badge" alt="anabe_sh" /></a> </p> <br>
+<p align="center"> <a href="https://twitter.com/anabe_sh" target="blank"><img src="https://img.shields.io/twitter/follow/anabe_sh?logo=twitter&style=for-the-badge" alt="anabe_sh" /></a> </p> <p align="center"> <a href="https://instagram.com/anabeatriz.sh" target="blank"><img src="https://img.shields.io/instagram/follow/anabeatriz.sh?logo=instagram&style=for-the-badge" alt="anabeatriz.sh" /></a> </p><br>
 
 - 🌱 I’m currently learning **about AZ-900, Ansible and DevOps culture.**
 
@@ -29,6 +29,3 @@ Programming Languages | Frontend Development | Database | DevOps | Others |
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=analeite&theme=outrun&show_icons=true)](https://github.com/analeite/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analeite&layout=compact&theme=outrun)](https://github.com/analeiteanaleite/github-readme-stats)
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=analeite&show_icons=true&locale=en&layout=compact" alt="analeite" /></p> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=analeite&" alt="analeite" /></p>
