@@ -28,9 +28,10 @@ Programming Languages | Frontend Development | Database | DevOps | Others |
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=analeite&show_icons=true&locale=en&layout=compact" alt="analeite" /></p> 
 
-</br>
+<br></br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=analeite&show_icons=true&locale=en" alt="analeite" /></p> 
-</br>
+
+<br></br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=analeite&" alt="analeite" /></p>
