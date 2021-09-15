@@ -1,13 +1,10 @@
 <h3 align="center">Hi 👋, I'm Ana Beatriz Leite</h3>
 <h4 align="center">A Brazilian System Analyst doing the second college in the Databases area. Aspirant of DevOps culture. Member of the Shalom Catholic Community.</h4>
 
-<br>
 
 - 🌱 I’m currently learning **about AZ-900, Ansible and DevOps culture.**
 
 - ⚡ Fun fact **I love to paint with watercolor!**
-
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,7 +12,6 @@
 <a href="https://linkedin.com/in/ana-beatriz-araujo" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ana-beatriz-araujo" /></a>
 <a href="https://twitter.com/anabe_sh" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="anabe_sh" /></a>
 </p>
-<br>
 
 <h3 align="left">Skills:</h3>
 
