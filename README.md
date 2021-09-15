@@ -2,7 +2,9 @@
 <h4 align="center">A Brazilian System Analyst doing the second college in the Databases area. Aspirant of DevOps culture. Member of the Shalom Catholic Community.</h4>
 
 <br>
-<p align="center"> <a href="https://twitter.com/anabe_sh" target="blank"><img src="https://img.shields.io/twitter/follow/anabe_sh?logo=twitter&style=for-the-badge" alt="anabe_sh" /></a> </p> <p align="center"> <a href="https://instagram.com/anabeatriz.sh" target="blank"><img src="https://img.shields.io/instagram/follow/anabeatriz.sh?logo=instagram&style=for-the-badge" alt="anabeatriz.sh" /></a> </p><br>
+<p align="center"> <a href="https://twitter.com/anabe_sh" target="blank"><img src="https://img.shields.io/twitter/follow/anabe_sh?logo=twitter&style=for-the-badge" alt="anabe_sh" /></a> </p> <p align="center"> 
+
+ <a href="https://instagram.com/anabeatriz.sh" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="anabeatriz.sh" /></a> </p><br>
 
 - 🌱 I’m currently learning **about AZ-900, Ansible and DevOps culture.**
 
