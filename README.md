@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **about AZ-900, Ansible and DevOps culture.**
 
-- ⚡ Fun fact **I love to paint with watercolor!**
+- ⚡ Fun fact: **I love to paint with watercolor!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
