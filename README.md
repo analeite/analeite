@@ -2,7 +2,7 @@
 <h4 align="center">A Brazilian System Analyst, aspirant of DevOps culture. Member of the Shalom Catholic Community.</h4>
 
 
-- 🌱 I’m currently learning **about AZ-900, Ansible and DevOps culture.**
+- 🌱 I’m currently learning **about AZ-104, Python, Agile and DevOps culture.**
 
 - ⚡ Fun fact: **I love to paint with watercolor!**
 
