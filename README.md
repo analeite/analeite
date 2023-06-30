@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Ana Beatriz Leite</h3>
-<h4 align="center">A Brazilian System Analyst doing the second college in the Databases area. Aspirant of DevOps culture. Member of the Shalom Catholic Community.</h4>
+<h4 align="center">A Brazilian System Analyst, aspirant of DevOps culture. Member of the Shalom Catholic Community.</h4>
 
 
 - 🌱 I’m currently learning **about AZ-900, Ansible and DevOps culture.**
