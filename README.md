@@ -1,20 +1,23 @@
-<h3 align="left">Hi 👋, I'm Ana Beatriz Leite</h3>
-<h4 align="left">A Brazilian System Analyst, aspirant of DevOps culture.</h4>
+<h3 align="center">Hi 👋, I'm Ana Beatriz Leite</h3>
+<h4 align="center">A Brazilian System Analyst, aspirant of DevOps culture.</h4> <br>
+
+<p align="center">
+🌱 I’m currently learning about **Python and DevOps culture.** </p>
+
+<p align="center">
+⚡ Fun fact: **I love arts, music and fashion!** </p>
 
 
-- 🌱 I’m currently learning **about Python and DevOps culture.**
+<br>
 
-- ⚡ Fun fact: **I love to paint with watercolor!**
-<br><br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://instagram.com/anabeatriz.sh" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="anabeatriz.sh" /></a>
 <a href="https://linkedin.com/in/ana-beatriz-araujo" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ana-beatriz-araujo" /></a>
 <a href="https://twitter.com/analeite_art" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="anabe_sh" /></a>
 </p> <br>
 
-<h3 align="left">Skills:</h3>
+<h3 align="center">Skills:</h3>
 
 Programming Languages | Frontend Development | Database | DevOps | Others |
 -----------------------|-----------------------|-----------|---------|---------|
