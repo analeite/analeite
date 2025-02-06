@@ -1,11 +1,11 @@
 <h3 align="center">Hi 👋, I'm Ana Beatriz Leite</h3>
 <h4 align="center">A Brazilian System Analyst, aspirant of DevOps culture.</h4> <br>
 
-<p align="center">
-🌱 I’m currently learning about **Python and DevOps culture.** </p>
 
-<p align="center">
-⚡ Fun fact: **I love arts, music and fashion!** </p>
+<div align="center"> 
+🌱 I’m currently learning about <strong>Python and DevOps culture.</strong> <br>
+⚡ Fun fact: <strong>I love arts, music and fashion!</strong>
+</div>
 
 
 <br>
@@ -17,15 +17,22 @@
 <a href="https://twitter.com/analeite_art" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="anabe_sh" /></a>
 </p> <br>
 
-<h3 align="center">Skills:</h3>
+<h3 align="center">Skills</h3>
 
-Programming Languages | Frontend Development | Database | DevOps | Others |
------------------------|-----------------------|-----------|---------|---------|
-<a href="https://www.java.com" target="blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/> </a> <br> <a href="https://www.php.net" target="blank"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/></a>  <br>  <a href="https://www.python.org" target="blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a>  <br> | <a href="https://getbootstrap.com" target="blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=whiteg" alt="bootstrap"/> </a>  <br>  <a href="https://www.w3schools.com/css/" target="blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a> <br> <a href="https://www.w3.org/html/" target="blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a> | <a href="https://www.oracle.com/" target="blank"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="oracle" /> </a>  <br> <a href="https://www.mysql.com/" target="blank"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> </a> | <a href="https://www.ansible.com/" target="blank"> <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" alt="ansible"/> </a> <br> <a href="https://azure.microsoft.com/en-in/" target="blank"> <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure"/> </a> <br> <a href="https://azure.microsoft.com/pt-br/services/devops/" target="blank"> <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="azuredevops"/> </a> <br> <a href="https://www.docker.com/" target="blank"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> </a> | <a href="https://git-scm.com/" target="blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a> <br> <a href="https://about.gitlab.com/" target="blank"> <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" /> </a> <br> <a href="https://www.linux.org/" target="blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a>
-
-<br>
+<div align="center">
  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=analeite&theme=outrun&show_icons=true)](https://github.com/analeite/github-readme-stats) <br><br>
+| Back-End | Frond-End | DevOps | Database | Git & CI/CD | Project Management | Operating Systems |
+| :---------: | :------: | :------: | :------: | :------: | :------: | :------: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />  <br> <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /> <br> <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /> <br> <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  /> <br> <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  /> <br> <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  /> <br> <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="oracle logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /> <br> <br> <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  /> <br> <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  /> <br> <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" alt="winndows logo"  /> <br> <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  /> <br> <br>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  /> <br> <br>   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  /> |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analeite&layout=compact&theme=outrun)](https://github.com/analeiteanaleite/github-readme-stats)
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=analeite&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=analeite&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+
 
